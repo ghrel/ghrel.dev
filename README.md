@@ -1,0 +1,5 @@
+# ghrel.dev
+
+## License
+
+MIT
